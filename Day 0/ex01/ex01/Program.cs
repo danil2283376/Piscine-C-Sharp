@@ -53,7 +53,6 @@ namespace ex01
                 int dist = DistanceLevenshtein(allNames[i], nameUser);
                 if (dist < 3)
                 {
-                    // System.Console.WriteLine("name = {0}, Расстояние левенштейна: {1}", allNames[i], dist);
                     if (allNames[i][0] == nameUser[0])
                     {
                         if (dist < minDistance)
@@ -61,8 +60,6 @@ namespace ex01
                             minDistance = dist;
                             closeWord = allNames[i];
                         }
-                        // System.Console.WriteLine("name = {0}, Расстояние левенштейна: {1}",
-                        //     allNames[i], dist);
                     }
                 }
             }
