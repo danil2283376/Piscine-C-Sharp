@@ -1,0 +1,15 @@
+/Users/scolen/Desktop/main.c/bin/Debug/net5.0/main.c.deps.json
+/Users/scolen/Desktop/main.c/bin/Debug/net5.0/main.c.runtimeconfig.json
+/Users/scolen/Desktop/main.c/bin/Debug/net5.0/main.c.runtimeconfig.dev.json
+/Users/scolen/Desktop/main.c/bin/Debug/net5.0/main.c.dll
+/Users/scolen/Desktop/main.c/bin/Debug/net5.0/ref/main.c.dll
+/Users/scolen/Desktop/main.c/bin/Debug/net5.0/main.c.pdb
+/Users/scolen/Desktop/main.c/obj/Debug/net5.0/main.c.csprojAssemblyReference.cache
+/Users/scolen/Desktop/main.c/obj/Debug/net5.0/main.c.GeneratedMSBuildEditorConfig.editorconfig
+/Users/scolen/Desktop/main.c/obj/Debug/net5.0/main.c.AssemblyInfoInputs.cache
+/Users/scolen/Desktop/main.c/obj/Debug/net5.0/main.c.AssemblyInfo.cs
+/Users/scolen/Desktop/main.c/obj/Debug/net5.0/main.c.csproj.CoreCompileInputs.cache
+/Users/scolen/Desktop/main.c/obj/Debug/net5.0/main.c.dll
+/Users/scolen/Desktop/main.c/obj/Debug/net5.0/ref/main.c.dll
+/Users/scolen/Desktop/main.c/obj/Debug/net5.0/main.c.pdb
+/Users/scolen/Desktop/main.c/obj/Debug/net5.0/main.c.genruntimeconfig.cache
