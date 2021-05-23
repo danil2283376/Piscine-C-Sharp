@@ -39,10 +39,13 @@ namespace ex01
             Console.Write("Enter name: ");
             nameUser = Console.ReadLine();
             lengthString = nameUser.Length;
-
+            for (int i = 0; i < nameUser.Length; i++)
+            {
+                if (nameUser[i] == ' ')
+                    return (OutputErrorMessage("Your name was not found."));
+            }
             if (lengthString == 0)
                 return (OutputErrorMessage("Your name was not found."));
-
             string[] allNames = File.ReadAllLines("us.txt");
             if (allNames == null)
                 return (OutputErrorMessage("File not exist!"));
