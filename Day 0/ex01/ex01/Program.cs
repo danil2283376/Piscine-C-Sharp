@@ -63,13 +63,20 @@ namespace ex01
                     }
                 }
             }
-            System.Console.WriteLine("Did you mean \"{0}\"? Y/N", closeWord);
-            char answer; 
-            bool isChar = Char.TryParse(Console.ReadLine(), out answer);
-            if (isChar == true && answer == 'Y')
+            if (minDistance == 0)
                 System.Console.WriteLine("Hello, {0}!", closeWord);
             else
-                return (OutputErrorMessage("Your name was not found."));
+            {
+                System.Console.WriteLine("Did you mean \"{0}\"? Y/N", closeWord);
+                string answer = Console.ReadLine();
+                lengthString = answer.Length;
+                if (lengthString > 1 || lengthString < 1)
+                    return (OutputErrorMessage("Bad input!"));
+                if (lengthString == 1 && answer == "Y")
+                    System.Console.WriteLine("Hello, {0}!", closeWord);
+                else
+                    return (OutputErrorMessage("Your name was not found."));
+            }
             return (0);
         }
     }
