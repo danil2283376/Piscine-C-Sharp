@@ -1,0 +1,15 @@
+/Users/scolen/Desktop/Piscine C#/Day01/ex00/obj/Debug/net5.0/ex00.csprojAssemblyReference.cache
+/Users/scolen/Desktop/Piscine C#/Day01/ex00/obj/Debug/net5.0/ex00.GeneratedMSBuildEditorConfig.editorconfig
+/Users/scolen/Desktop/Piscine C#/Day01/ex00/obj/Debug/net5.0/ex00.AssemblyInfoInputs.cache
+/Users/scolen/Desktop/Piscine C#/Day01/ex00/obj/Debug/net5.0/ex00.AssemblyInfo.cs
+/Users/scolen/Desktop/Piscine C#/Day01/ex00/obj/Debug/net5.0/ex00.csproj.CoreCompileInputs.cache
+/Users/scolen/Desktop/Piscine C#/Day01/ex00/bin/Debug/net5.0/ex00.deps.json
+/Users/scolen/Desktop/Piscine C#/Day01/ex00/bin/Debug/net5.0/ex00.runtimeconfig.json
+/Users/scolen/Desktop/Piscine C#/Day01/ex00/bin/Debug/net5.0/ex00.runtimeconfig.dev.json
+/Users/scolen/Desktop/Piscine C#/Day01/ex00/bin/Debug/net5.0/ex00.dll
+/Users/scolen/Desktop/Piscine C#/Day01/ex00/bin/Debug/net5.0/ref/ex00.dll
+/Users/scolen/Desktop/Piscine C#/Day01/ex00/bin/Debug/net5.0/ex00.pdb
+/Users/scolen/Desktop/Piscine C#/Day01/ex00/obj/Debug/net5.0/ex00.dll
+/Users/scolen/Desktop/Piscine C#/Day01/ex00/obj/Debug/net5.0/ref/ex00.dll
+/Users/scolen/Desktop/Piscine C#/Day01/ex00/obj/Debug/net5.0/ex00.pdb
+/Users/scolen/Desktop/Piscine C#/Day01/ex00/obj/Debug/net5.0/ex00.genruntimeconfig.cache
